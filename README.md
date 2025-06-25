@@ -4,6 +4,8 @@
 
 🌐 Live Site URL: [https://assignment-ten-4fa46.web.app](https://assignment-ten-4fa46.web.app)
 
+🌐 server site URL: [https://github.com/minhazchy101/Hobby_Hub_Server](https://github.com/minhazchy101/Hobby_Hub_Server)
+
 HobbyHub is a dynamic web platform designed to connect individuals through shared hobbies and interests. Whether you're into painting, reading, gaming, or photography, HobbyHub makes it easy to discover and join local hobby groups.
 
 ## 🚀 Features
