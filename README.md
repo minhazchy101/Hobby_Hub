@@ -36,7 +36,7 @@ npm install
 # 4. Start the development server
 npm run dev
 
-**note** : set the .env 
+# note : set the .env.local 
 
 > HobbyHub makes it simple and fun to connect with like-minded people and build communities around your favorite pastimes.
 
